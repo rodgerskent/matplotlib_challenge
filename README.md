@@ -15,7 +15,7 @@ Key Deliverables
 7.	Using Matplotlib, generate a box and whisker plot of the final tumor volume for all four treatment regimens and highlight any potential outliers in the plot by changing their color and style. All four box plots should be within the same figure. 
 8.	Select a mouse that was treated with Capomulin and generate a line plot of tumor volume vs. time point for that mouse.
 9.	Generate a scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen.
-10.	1Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
+10.	Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
 11.	Look across all previously generated figures and tables and write at least three observations or inferences that can be made from the data. Include these observations at the top of notebook.
 
 Topline (3 Key) Takeaways
