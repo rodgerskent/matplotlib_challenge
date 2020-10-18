@@ -19,11 +19,13 @@ Key Deliverables
 11.	Look across all previously generated figures and tables and write at least three observations or inferences that can be made from the data. Include these observations at the top of notebook.
 
 Topline (3 Key) Takeaways
-1.	Ten (10) drug regimens, including Placebo, were evaluated over 45 timepoints
-1a. Twenty-five (25) mice per study except in the Stelasyn regimen which had 24 participants
-1b. Mice participants were nearly evenly divided between male and female
-2.	Weight and Tumor Volume were highly correlated with a correlation coefficient of 0.84
-3.	There were no statistical outliers in the four targeted drug regimens, Capomulin, Ramicane, Infubinol, and Ceftamin, making it challenging to plot highlighted outliers in the box and whisker charts. … please note that the code is presented to support highlighted outliers. 
+1. Based on initial results the Capomulin and Ramicane drug regimens are promissing
+2. Weight and tumor volume are highly correlated, the study assessment should be expanded to ensure participant weight was properly managed in study
+3. Ten (10) drug regimens, including Placebo, were evaluated over 45 timepoints
+3a. Twenty-five (25) mice per study except in the Stelasyn regimen which had 24 participants
+3b. Mice participants were nearly evenly divided between male and female
+3c. Additional data should be gathered to ensure participant weight was properly distributed between regimens
+Grader ... please note.	There were no statistical outliers in the four targeted drug regimens, Capomulin, Ramicane, Infubinol, and Ceftamin based on two separate calculations. I understand the project required us to flag outliers. I placed the flagging logic into the box and whisker charts to show competency and effort but my max timepoint data frame did not support presenting. I double checked my final tumor volume logic but do not see a shortcomiing in the approach. Open to evaluation and feedback. 
 
 Visuals
 Please reference the Pymaceuticals Pitchbook for visuals and key takeaways. 
@@ -48,4 +50,4 @@ License
 Not applicable
 
 Project status
-Project objectives and deliverables achieved. Please note that a for-loop process was not used in the formation of the quartiles and IQR calculations as suggested. These calculations were done on a study-by-study basis. 
+Project objectives and deliverables achieved. Please note that a for-loop process was not used in the formation of the quartiles and IQR calculations as suggested. These calculations were done on a study-by-study basis. My final efforts are documented in a separate section to demonstrate effort. 
